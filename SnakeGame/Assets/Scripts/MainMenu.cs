@@ -14,6 +14,27 @@ public class MainMenu : MonoBehaviour
         Application.Quit();
     }
 
+    public void Credits()
+    {
+        SceneManager.LoadSceneAsync(2);
+    }
+
+    public void BacktoMain()
+    {
+        SceneManager.LoadSceneAsync(0);
+    }
+
+    public void EasyButton()
+    {
+        SnakeMovement.startingMoveInterval = 0.5f;
+    }
+
+    public void HardButton()
+    {
+        SnakeMovement.startingMoveInterval = 0.2f;
+    }
+
+
     void Update()
     {
         if (Input.GetKey("escape"))

@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: b6d387a65591e8e4198e1aefc91c626c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3147653172023128955
+    second: Joystick Motion_0
+  - first:
+      213: -887279553626636609
+    second: Joystick Motion_1
+  - first:
+      213: 7269680603428806625
+    second: Joystick Motion_2
+  - first:
+      213: 487706713245867084
+    second: Joystick Motion_3
+  - first:
+      213: -2784061789121613305
+    second: Joystick Motion_4
+  - first:
+      213: 2525679229323759911
+    second: Joystick Motion_5
+  - first:
+      213: -8762704520108556221
+    second: Joystick Motion_6
+  - first:
+      213: -8606278061682483575
+    second: Joystick Motion_7
+  - first:
+      213: -7848663898788458664
+    second: Joystick Motion_8
+  - first:
+      213: 4420908616036033761
+    second: Joystick Motion_9
+  - first:
+      213: 6557518302982669853
+    second: Joystick Motion_10
+  - first:
+      213: 4175329087589537227
+    second: Joystick Motion_11
+  - first:
+      213: -7905552774690806144
+    second: Joystick Motion_12
+  - first:
+      213: -6304022075221990294
+    second: Joystick Motion_13
+  - first:
+      213: 7860647424743467428
+    second: Joystick Motion_14
+  - first:
+      213: 2964162357282681397
+    second: Joystick Motion_15
+  - first:
+      213: -6218365556822311670
+    second: Joystick Motion_16
+  - first:
+      213: 2995370842940864459
+    second: Joystick Motion_17
+  - first:
+      213: -1041238897981927314
+    second: Joystick Motion_18
+  - first:
+      213: 9088534197669646568
+    second: Joystick Motion_19
+  - first:
+      213: -8248957061632642389
+    second: Joystick Motion_20
+  - first:
+      213: 5892400534236812106
+    second: Joystick Motion_21
+  - first:
+      213: -3774160004831168218
+    second: Joystick Motion_22
+  - first:
+      213: 171775054802854410
+    second: Joystick Motion_23
+  - first:
+      213: 2926983847438799883
+    second: Joystick Motion_24
+  - first:
+      213: 1729942508006786865
+    second: Joystick Motion_25
+  - first:
+      213: 284270772920454443
+    second: Joystick Motion_26
+  - first:
+      213: -7439004705583430697
+    second: Joystick Motion_27
+  - first:
+      213: -7736083231698663613
+    second: Joystick Motion_28
+  - first:
+      213: -1908072101570641770
+    second: Joystick Motion_29
+  - first:
+      213: -3505864359920278617
+    second: Joystick Motion_30
+  - first:
+      213: 2052743266782239427
+    second: Joystick Motion_31
+  - first:
+      213: -2208806760704387614
+    second: Joystick Motion_32
+  - first:
+      213: 8926151651179094023
+    second: Joystick Motion_33
+  - first:
+      213: -2653557752297065129
+    second: Joystick Motion_34
+  - first:
+      213: 1202934329765400297
+    second: Joystick Motion_35
+  - first:
+      213: 8944200461299859318
+    second: Joystick Motion_36
+  - first:
+      213: -3768006599647311636
+    second: Joystick Motion_37
+  - first:
+      213: -7007384712144534687
+    second: Joystick Motion_38
+  - first:
+      213: 3545068910706713329
+    second: Joystick Motion_39
+  - first:
+      213: 7975827279229882864
+    second: Joystick Motion_40
+  - first:
+      213: -4714420361787131890
+    second: Joystick Motion_41
+  - first:
+      213: -1797230086943483064
+    second: Joystick Motion_42
+  - first:
+      213: 3126161850761374843
+    second: Joystick Motion_43
+  - first:
+      213: -1083223135158215457
+    second: Joystick Motion_44
+  - first:
+      213: -4976346037485319329
+    second: Joystick Motion_45
+  - first:
+      213: -3048428364665267179
+    second: Joystick Motion_46
+  - first:
+      213: 3087868649104613540
+    second: Joystick Motion_47
+  - first:
+      213: -3123146417215235144
+    second: Joystick Motion_48
+  - first:
+      213: 9186261532671579336
+    second: Joystick Motion_49
+  - first:
+      213: -3324530431695792412
+    second: Joystick Motion_50
+  - first:
+      213: -6019412380708159484
+    second: Joystick Motion_51
+  - first:
+      213: -8999274700672451512
+    second: Joystick Motion_52
+  - first:
+      213: -8394708076130558470
+    second: Joystick Motion_53
+  - first:
+      213: -659903993786944433
+    second: Joystick Motion_54
+  - first:
+      213: -3268207620003868985
+    second: Joystick Motion_55
+  - first:
+      213: -7950418983716197745
+    second: Joystick Motion_56
+  - first:
+      213: -3496284025020547364
+    second: Joystick Motion_57
+  - first:
+      213: -805503258348943925
+    second: Joystick Motion_58
+  - first:
+      213: -3928513992921311137
+    second: Joystick Motion_59
+  - first:
+      213: 3467101080485215077
+    second: Joystick Motion_60
+  - first:
+      213: -433715701897609843
+    second: Joystick Motion_61
+  - first:
+      213: -5116725952821873277
+    second: Joystick Motion_62
+  - first:
+      213: -1615976607460930963
+    second: Joystick Motion_63
+  - first:
+      213: 6678298686030191605
+    second: Joystick Motion_64
+  - first:
+      213: -4001498651204532433
+    second: Joystick Motion_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Joystick Motion_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 272
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c0e65fd1a4154d0800000000000000
+      internalID: -3147653172023128955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 274
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbefd9d62ffbfa3f0800000000000000
+      internalID: -887279553626636609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 272
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efdbed0ef713e460800000000000000
+      internalID: 7269680603428806625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 272
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cd795fbaea4c600800000000000000
+      internalID: 487706713245867084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 272
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702faaaad860d59d0800000000000000
+      internalID: -2784061789121613305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 272
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721dc60a0e30d0320800000000000000
+      internalID: 2525679229323759911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 269
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340483f6aae946680800000000000000
+      internalID: -8762704520108556221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 272
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e9d2f63bb509880800000000000000
+      internalID: -8606278061682483575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 272
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f084f94c1f31390800000000000000
+      internalID: -7848663898788458664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 274
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4aa4b96f83a5d30800000000000000
+      internalID: 4420908616036033761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 272
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d168761472cf00b50800000000000000
+      internalID: 6557518302982669853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_11
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 272
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5512eeeafb1f930800000000000000
+      internalID: 4175329087589537227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_12
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 272
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086637703a5d94290800000000000000
+      internalID: -7905552774690806144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 272
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a642c2e925d9388a0800000000000000
+      internalID: -6304022075221990294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_14
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 269
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a96c607f21a61d60800000000000000
+      internalID: 7860647424743467428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_15
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 272
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5323b6a85f1d22920800000000000000
+      internalID: 2964162357282681397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 276
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0df41ee87de3b9a0800000000000000
+      internalID: -6218365556822311670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_17
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 278
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc77d0859e1b19920800000000000000
+      internalID: 2995370842940864459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_18
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 276
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60d77f2db6cc81f0800000000000000
+      internalID: -1041238897981927314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_19
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 276
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0d61d13b5f02e70800000000000000
+      internalID: 9088534197669646568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_20
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 276
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2bfedd141d58d80800000000000000
+      internalID: -8248957061632642389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 276
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43d18d011306c150800000000000000
+      internalID: 5892400534236812106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_22
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 273
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6293d82d87d7f9bc0800000000000000
+      internalID: -3774160004831168218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_23
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 276
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a022cc29084426200800000000000000
+      internalID: 171775054802854410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_24
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 271
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0455e92d4cbe9820800000000000000
+      internalID: 2926983847438799883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_25
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 273
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137c79f9b8df10810800000000000000
+      internalID: 1729942508006786865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_26
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 271
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d03f703cee1f300800000000000000
+      internalID: 284270772920454443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_27
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 271
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d38d3142a853c890800000000000000
+      internalID: -7439004705583430697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_28
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 271
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347cebdc949e3a490800000000000000
+      internalID: -7736083231698663613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_29
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 271
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6908c04788a2585e0800000000000000
+      internalID: -1908072101570641770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_30
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 268
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3ef3480faa85fc0800000000000000
+      internalID: -3505864359920278617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_31
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 271
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca51af002fcc7c10800000000000000
+      internalID: 2052743266782239427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_32
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 268
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5dbb234fdb851e0800000000000000
+      internalID: -2208806760704387614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_33
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 270
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700ebcb42af00eb70800000000000000
+      internalID: 8926151651179094023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_34
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 268
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755795f884bac2bd0800000000000000
+      internalID: -2653557752297065129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_35
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 268
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee0ac5466ea1b010800000000000000
+      internalID: 1202934329765400297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_36
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 268
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fb9af5eee202c70800000000000000
+      internalID: 8944200461299859318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_37
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 268
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8c1bc16f955bbc0800000000000000
+      internalID: -3768006599647311636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_38
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 265
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1634f142bb4c0ce90800000000000000
+      internalID: -7007384712144534687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_39
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 268
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f264f6446d923130800000000000000
+      internalID: 3545068910706713329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_40
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 0
+        width: 481
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f11e5817a4dfae60800000000000000
+      internalID: 7975827279229882864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 189
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e083fc5b8a3039eb0800000000000000
+      internalID: -4714420361787131890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_42
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 189
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bd61012c4fe07e0800000000000000
+      internalID: -1797230086943483064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 189
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c6201e3ab526b20800000000000000
+      internalID: 3126161850761374843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_44
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 188
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcd8683c4e97f0f0800000000000000
+      internalID: -1083223135158215457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_45
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 189
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bc34c05a770fab0800000000000000
+      internalID: -4976346037485319329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cd6e8bd8ec1b5d0800000000000000
+      internalID: -3048428364665267179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_47
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 87
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a022f61d205ada20800000000000000
+      internalID: 3087868649104613540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_48
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 96
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb1a5471ea58a4d0800000000000000
+      internalID: -3123146417215235144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_49
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 101
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c499bc61382c7f70800000000000000
+      internalID: 9186261532671579336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_50
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 87
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6dbcdbf25ecd1d0800000000000000
+      internalID: -3324530431695792412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_51
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 90
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4004d4bf450c67ca0800000000000000
+      internalID: -6019412380708159484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_52
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 96
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c324607572c1380800000000000000
+      internalID: -8999274700672451512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_53
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 87
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd92295b71008b80800000000000000
+      internalID: -8394708076130558470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_54
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 96
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44b77060dc87d6f0800000000000000
+      internalID: -659903993786944433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_55
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 86
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cec17d3c7ef4a2d0800000000000000
+      internalID: -3268207620003868985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_56
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 87
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ae214be007aa190800000000000000
+      internalID: -7950418983716197745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_57
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 102
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdef6ce0434ba7fc0800000000000000
+      internalID: -3496284025020547364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_58
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 96
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc501b4ed0742d4f0800000000000000
+      internalID: -805503258348943925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_59
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 87
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5816cc665d1b79c0800000000000000
+      internalID: -3928513992921311137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_60
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 96
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bb1be201e9d1030800000000000000
+      internalID: 3467101080485215077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_61
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 8
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d32e6fdd12bf9f0800000000000000
+      internalID: -433715701897609843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_62
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 8
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385b7010bdcbdf8b0800000000000000
+      internalID: -5116725952821873277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_63
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 8
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a43fa56d5e299e0800000000000000
+      internalID: -1615976607460930963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_64
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 8
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb99c495451eac50800000000000000
+      internalID: 6678298686030191605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joystick Motion_65
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 8
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27cfb57d22d778c0800000000000000
+      internalID: -4001498651204532433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Joystick Motion_0: -3147653172023128955
+      Joystick Motion_1: -887279553626636609
+      Joystick Motion_10: 6557518302982669853
+      Joystick Motion_11: 4175329087589537227
+      Joystick Motion_12: -7905552774690806144
+      Joystick Motion_13: -6304022075221990294
+      Joystick Motion_14: 7860647424743467428
+      Joystick Motion_15: 2964162357282681397
+      Joystick Motion_16: -6218365556822311670
+      Joystick Motion_17: 2995370842940864459
+      Joystick Motion_18: -1041238897981927314
+      Joystick Motion_19: 9088534197669646568
+      Joystick Motion_2: 7269680603428806625
+      Joystick Motion_20: -8248957061632642389
+      Joystick Motion_21: 5892400534236812106
+      Joystick Motion_22: -3774160004831168218
+      Joystick Motion_23: 171775054802854410
+      Joystick Motion_24: 2926983847438799883
+      Joystick Motion_25: 1729942508006786865
+      Joystick Motion_26: 284270772920454443
+      Joystick Motion_27: -7439004705583430697
+      Joystick Motion_28: -7736083231698663613
+      Joystick Motion_29: -1908072101570641770
+      Joystick Motion_3: 487706713245867084
+      Joystick Motion_30: -3505864359920278617
+      Joystick Motion_31: 2052743266782239427
+      Joystick Motion_32: -2208806760704387614
+      Joystick Motion_33: 8926151651179094023
+      Joystick Motion_34: -2653557752297065129
+      Joystick Motion_35: 1202934329765400297
+      Joystick Motion_36: 8944200461299859318
+      Joystick Motion_37: -3768006599647311636
+      Joystick Motion_38: -7007384712144534687
+      Joystick Motion_39: 3545068910706713329
+      Joystick Motion_4: -2784061789121613305
+      Joystick Motion_40: 7975827279229882864
+      Joystick Motion_41: -4714420361787131890
+      Joystick Motion_42: -1797230086943483064
+      Joystick Motion_43: 3126161850761374843
+      Joystick Motion_44: -1083223135158215457
+      Joystick Motion_45: -4976346037485319329
+      Joystick Motion_46: -3048428364665267179
+      Joystick Motion_47: 3087868649104613540
+      Joystick Motion_48: -3123146417215235144
+      Joystick Motion_49: 9186261532671579336
+      Joystick Motion_5: 2525679229323759911
+      Joystick Motion_50: -3324530431695792412
+      Joystick Motion_51: -6019412380708159484
+      Joystick Motion_52: -8999274700672451512
+      Joystick Motion_53: -8394708076130558470
+      Joystick Motion_54: -659903993786944433
+      Joystick Motion_55: -3268207620003868985
+      Joystick Motion_56: -7950418983716197745
+      Joystick Motion_57: -3496284025020547364
+      Joystick Motion_58: -805503258348943925
+      Joystick Motion_59: -3928513992921311137
+      Joystick Motion_6: -8762704520108556221
+      Joystick Motion_60: 3467101080485215077
+      Joystick Motion_61: -433715701897609843
+      Joystick Motion_62: -5116725952821873277
+      Joystick Motion_63: -1615976607460930963
+      Joystick Motion_64: 6678298686030191605
+      Joystick Motion_65: -4001498651204532433
+      Joystick Motion_7: -8606278061682483575
+      Joystick Motion_8: -7848663898788458664
+      Joystick Motion_9: 4420908616036033761
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

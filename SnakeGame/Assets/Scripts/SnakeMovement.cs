@@ -1,5 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
+using UnityEngine.SceneManagement;
 
 public class SnakeMovement : MonoBehaviour
 {
@@ -9,6 +11,10 @@ public class SnakeMovement : MonoBehaviour
     public GameObject segmentPrefab;
     public float moveInterval = 0.5f;
     public int score = 0;
+    public TextMeshProUGUI scoreText;
+    public static float startingMoveInterval;
+    public AudioSource munch;
+
 
 
     //2 seperate lists to track the where the snake is (snakePositions) and to track the segments of the snake
@@ -22,6 +28,7 @@ public class SnakeMovement : MonoBehaviour
 
     private void Start()
     {
+        moveInterval = startingMoveInterval;
         //adding the head to the positions
         Vector2Int startPosition = new Vector2Int(0,0);
         snakePositions.Add(startPosition);
@@ -31,6 +38,8 @@ public class SnakeMovement : MonoBehaviour
         snakeSegments.Add(head);
 
         fruitManager.SpawnFruit(snakePositions);
+
+        UpdateScoreUI();
     }
 
     private void Update()
@@ -48,6 +57,11 @@ public class SnakeMovement : MonoBehaviour
         }
 
 
+    }
+
+    private void UpdateScoreUI()
+    {
+        scoreText.text = $"{score}";
     }
 
     //movement handling
@@ -78,7 +92,6 @@ public class SnakeMovement : MonoBehaviour
 
         
         bool ateFruit = newHeadPosition == fruitManager.GetFruitPosition();
-
         //if ate fruit is true, the tail does not move so you check all segments
         //if ate fruit is not true, the tail moves so you check all segments except the tail
         int segmentsToCheck = ateFruit ? snakePositions.Count : snakePositions.Count - 1;
@@ -105,7 +118,21 @@ public class SnakeMovement : MonoBehaviour
             GrowSnake();
             fruitManager.SpawnFruit(snakePositions);
 
-            score += 1;
+            munch.Play();
+
+            if (moveInterval == 0.5f)
+            {
+                score += 1;
+                ScoreManager.AddScore(1);
+            }
+
+            else
+            {
+                score += 2;
+                ScoreManager.AddScore(2);
+            }
+
+            UpdateScoreUI();
             Debug.Log(score);
         }
         
@@ -127,6 +154,7 @@ public class SnakeMovement : MonoBehaviour
         //THIS IS THE WIN SCRIPT IF THIS RUNS THEY HAVE BEATEN THE GAME
         else
         {
+            SceneManager.LoadSceneAsync(4);
             Debug.Log("Congratulations, YOU WIN!!!!");
             enabled = false;
 
@@ -175,6 +203,9 @@ public class SnakeMovement : MonoBehaviour
     private void GameOver()
     {
         Debug.Log("Game Over");
+
+        SceneManager.LoadSceneAsync(3);
+
         enabled = false;
     }
 }

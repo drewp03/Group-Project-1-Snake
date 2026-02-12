@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 7a5d3c48136efb141a9cf50c8eedbd41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4699984538235675670
+    second: Game Over Motion_0
+  - first:
+      213: -5916118024093615425
+    second: Game Over Motion_1
+  - first:
+      213: -5155960158519679750
+    second: Game Over Motion_2
+  - first:
+      213: 6353519076855011386
+    second: Game Over Motion_3
+  - first:
+      213: -9206385990727536240
+    second: Game Over Motion_4
+  - first:
+      213: -7726141872787949465
+    second: Game Over Motion_5
+  - first:
+      213: -3915223319500411534
+    second: Game Over Motion_6
+  - first:
+      213: 8654557678703387247
+    second: Game Over Motion_7
+  - first:
+      213: -6845903275754990234
+    second: Game Over Motion_8
+  - first:
+      213: -8050453395689479233
+    second: Game Over Motion_9
+  - first:
+      213: -455135057767660347
+    second: Game Over Motion_10
+  - first:
+      213: -5690838947916085388
+    second: Game Over Motion_11
+  - first:
+      213: 6974002487300514954
+    second: Game Over Motion_12
+  - first:
+      213: -1626092926968894950
+    second: Game Over Motion_13
+  - first:
+      213: -3900343961122967303
+    second: Game Over Motion_14
+  - first:
+      213: 1379879148487447888
+    second: Game Over Motion_15
+  - first:
+      213: 1902700738813338176
+    second: Game Over Motion_16
+  - first:
+      213: -1993607372288537721
+    second: Game Over Motion_17
+  - first:
+      213: 7280673244499343127
+    second: Game Over Motion_18
+  - first:
+      213: 3836618683938848205
+    second: Game Over Motion_19
+  - first:
+      213: -6263108696877980224
+    second: Game Over Motion_20
+  - first:
+      213: -3451257994235635302
+    second: Game Over Motion_21
+  - first:
+      213: -7784556167796047871
+    second: Game Over Motion_22
+  - first:
+      213: 3635943064181317255
+    second: Game Over Motion_23
+  - first:
+      213: 3021835317427300063
+    second: Game Over Motion_24
+  - first:
+      213: -2168340864799490172
+    second: Game Over Motion_25
+  - first:
+      213: 48472611219344899
+    second: Game Over Motion_26
+  - first:
+      213: 1430530323237898164
+    second: Game Over Motion_27
+  - first:
+      213: 7617981427340586884
+    second: Game Over Motion_28
+  - first:
+      213: 2755222876269977234
+    second: Game Over Motion_29
+  - first:
+      213: 4441104363572223025
+    second: Game Over Motion_30
+  - first:
+      213: -8102007033171431437
+    second: Game Over Motion_31
+  - first:
+      213: 9122432020355429237
+    second: Game Over Motion_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Over Motion_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 176
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614ad533903b93140800000000000000
+      internalID: 4699984538235675670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 171
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba3d94800ab5eda0800000000000000
+      internalID: -5916118024093615425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 179
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af42e53ad895278b0800000000000000
+      internalID: -5155960158519679750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 171
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a385c9120fb3c2850800000000000000
+      internalID: 6353519076855011386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 169
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0917d8d08b85c3080800000000000000
+      internalID: -9206385990727536240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 164
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768f33cc6ea37c490800000000000000
+      internalID: -7726141872787949465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_6
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 172
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d2ad872255aa9c0800000000000000
+      internalID: -3915223319500411534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 164
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62ae3fda5a2b1870800000000000000
+      internalID: 8654557678703387247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 169
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665d0f9ed377ef0a0800000000000000
+      internalID: -6845903275754990234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_9
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 164
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3671d2a4b074090800000000000000
+      internalID: -8050453395689479233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 172
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c48eec83190fa9f0800000000000000
+      internalID: -455135057767660347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 164
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4770183d0241601b0800000000000000
+      internalID: -5690838947916085388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_12
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 182
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84ec36ff42a8c060800000000000000
+      internalID: 6974002487300514954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_13
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 177
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a6e3c2915fe69e0800000000000000
+      internalID: -1626092926968894950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_14
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 185
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0fc6f05d13fd9c0800000000000000
+      internalID: -3900343961122967303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_15
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 177
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055109e46c0562310800000000000000
+      internalID: 1379879148487447888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_16
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 769
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042a7d2bd30c76a10800000000000000
+      internalID: 1902700738813338176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 89
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b442158a84554e0800000000000000
+      internalID: -1993607372288537721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 87
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717f210cdb52a0560800000000000000
+      internalID: 7280673244499343127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 86
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd3dc2ad586e3530800000000000000
+      internalID: 3836618683938848205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_20
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 82
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5ade4d2d7f419a0800000000000000
+      internalID: -6263108696877980224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_21
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 82
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a999b59c32baa10d0800000000000000
+      internalID: -3451257994235635302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_22
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 80
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100c074e863b7f390800000000000000
+      internalID: -7784556167796047871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_23
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 79
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e921ce3f6757230800000000000000
+      internalID: 3635943064181317255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_24
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 75
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6ebf8f537bfe920800000000000000
+      internalID: 3021835317427300063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_25
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 82
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fb9a9c87188e1e0800000000000000
+      internalID: -2168340864799490172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_26
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 80
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e801545953ca000800000000000000
+      internalID: 48472611219344899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 79
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7050defb34ad310800000000000000
+      internalID: 1430530323237898164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_28
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 75
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fa8221fb188b960800000000000000
+      internalID: 7617981427340586884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_29
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 95
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e1a11bb948c3620800000000000000
+      internalID: 2755222876269977234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_30
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 93
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cd82183e8f1ad30800000000000000
+      internalID: 4441104363572223025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_31
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 92
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffa9149783ef8f80800000000000000
+      internalID: -8102007033171431437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Over Motion_32
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 88
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5733fecf693699e70800000000000000
+      internalID: 9122432020355429237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Over Motion_0: 4699984538235675670
+      Game Over Motion_1: -5916118024093615425
+      Game Over Motion_10: -455135057767660347
+      Game Over Motion_11: -5690838947916085388
+      Game Over Motion_12: 6974002487300514954
+      Game Over Motion_13: -1626092926968894950
+      Game Over Motion_14: -3900343961122967303
+      Game Over Motion_15: 1379879148487447888
+      Game Over Motion_16: 1902700738813338176
+      Game Over Motion_17: -1993607372288537721
+      Game Over Motion_18: 7280673244499343127
+      Game Over Motion_19: 3836618683938848205
+      Game Over Motion_2: -5155960158519679750
+      Game Over Motion_20: -6263108696877980224
+      Game Over Motion_21: -3451257994235635302
+      Game Over Motion_22: -7784556167796047871
+      Game Over Motion_23: 3635943064181317255
+      Game Over Motion_24: 3021835317427300063
+      Game Over Motion_25: -2168340864799490172
+      Game Over Motion_26: 48472611219344899
+      Game Over Motion_27: 1430530323237898164
+      Game Over Motion_28: 7617981427340586884
+      Game Over Motion_29: 2755222876269977234
+      Game Over Motion_3: 6353519076855011386
+      Game Over Motion_30: 4441104363572223025
+      Game Over Motion_31: -8102007033171431437
+      Game Over Motion_32: 9122432020355429237
+      Game Over Motion_4: -9206385990727536240
+      Game Over Motion_5: -7726141872787949465
+      Game Over Motion_6: -3915223319500411534
+      Game Over Motion_7: 8654557678703387247
+      Game Over Motion_8: -6845903275754990234
+      Game Over Motion_9: -8050453395689479233
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class EscToQuit : MonoBehaviour
 {
+
     // Update is called once per frame
     void Update()
     {
